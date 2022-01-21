@@ -1,0 +1,13 @@
+.slide-bg{
+  background-color: #f6e5fad2;
+}
+
+.all-button{
+  background-color: #ff4ab1;
+  color: white;
+  font-weight: 700;
+  border-radius: 10px;
+  border:none;
+  padding: 10px;
+  width: 120px;
+}
